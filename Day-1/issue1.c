@@ -1,4 +1,4 @@
-// C program to print the full pyramid pattern of stars
+// A program to print the full pyramid pattern of stars
 #include <stdio.h>
 
 int main()
