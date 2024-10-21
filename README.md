@@ -9,5 +9,11 @@ We have curated a wide array of issues and bugs waiting to be resolves and squas
 
 ![Static Badge](https://img.shields.io/badge/Active_Status-Down-yellow)
 
+### Getting Started
 
-Prerequisites:
+- Fork our repository
+- Clone the forked repository to your local machine
+- Find issues in the repository from
+- Rectify the issue and send a pR
+- The quickest and most accurate PRs will be merged and the corresponding issue will be close.
+
