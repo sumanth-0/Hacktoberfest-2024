@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void del(int arr, int element) {
+    
     // Define a function to delelte an element from the array passed as argument.
 }
 

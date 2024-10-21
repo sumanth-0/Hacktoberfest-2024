@@ -1,4 +1,5 @@
 //A Program to print hourglass pattern using star *
+
 #include <stdio.h>
 int main()
 {

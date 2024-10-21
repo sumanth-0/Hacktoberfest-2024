@@ -1,6 +1,5 @@
 //A program to find the factorial of 10
 
-
 #include <stdio.h>
 
 long factorial(int n) {
