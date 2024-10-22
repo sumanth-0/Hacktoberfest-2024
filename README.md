@@ -2,12 +2,12 @@
 
 # Welcome to Hack Week 2024!
 
-Hello hackers, get ready to embark on your open source journey as a contributer by learning to find issues. solve bugs and make pull requests.
+Hello hackers, get ready to embark on your open source journey as a contributer by learning to find issues, solve bugs and make pull requests.
 We have curated a wide array of issues and bugs waiting to be resolves and squashed. 
 ***
 
 
-![Static Badge](https://img.shields.io/badge/Active_Status-Down-red)
+![Static Badge](https://img.shields.io/badge/Active_Status-Ready-green)
 
 ### Getting Started
 
