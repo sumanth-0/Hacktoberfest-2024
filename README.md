@@ -7,13 +7,24 @@ We have curated a wide array of issues and bugs waiting to be resolves and squas
 ***
 
 
-![Static Badge](https://img.shields.io/badge/Active_Status-Down-yellow)
+![Static Badge](https://img.shields.io/badge/Active_Status-Down-red)
 
 ### Getting Started
 
 - Fork our repository
-- Clone the forked repository to your local machine
-- Find issues in the repository from
-- Rectify the issue and send a pR
-- The quickest and most accurate PRs will be merged and the corresponding issue will be close.
+- Clone the forked repository to your local machine.
+- Find issues in the repository from.
+- Rectify the issue and send a PR.
+- Commit your changes and push your changes to your fork.
+- Create a Pull Request to this repository.
+- The quickest and most accurate PRs will be merged after review and the corresponding issue will then be closed.
 
+> [!CAUTION]
+> Ensure that there are no conflicts when you're requesting your changes to be merged.
+
+
+### Issues
+
+We have a variety of issues available for you to work on each day. Feel free to explore the issues board to find something that interests you. If you have an idea for a new feature or bugfix, open a new issue to discuss it with the community.
+
+By contributing to this repository, you agree to comply with its terms. Happy Hacking!
