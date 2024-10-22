@@ -14,7 +14,9 @@ We have curated a wide array of issues and bugs waiting to be resolves and squas
 - Fork our repository
 - Clone the forked repository to your local machine.
 - Find issues in the repository from the issues page.
-- Rectify the issue and send a PR.
+  
+![Screenshot of the issue tab in github](https://github.com/Vishnu-M-E/Hacktoberfest-2024/blob/main/assets/issues.png)
+- Rectify the issue in your local machine.
 - Commit your changes and push your changes to your fork.
 - Create a Pull Request to this repository.
 - The quickest and most accurate PRs will be merged after review and the corresponding issue will then be closed.
