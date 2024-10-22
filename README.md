@@ -13,7 +13,7 @@ We have curated a wide array of issues and bugs waiting to be resolves and squas
 
 - Fork our repository
 - Clone the forked repository to your local machine.
-- Find issues in the repository from.
+- Find issues in the repository from the issues page.
 - Rectify the issue and send a PR.
 - Commit your changes and push your changes to your fork.
 - Create a Pull Request to this repository.
